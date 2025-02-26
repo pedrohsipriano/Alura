@@ -1,7 +1,7 @@
 import java.io.PrintStream;
 import java.util.Locale;
 
-public class App {
+public class Main {
     public static void main(String[] args) throws Exception {
         // Define o idioma para Português do Brasil
         Locale.setDefault(Locale.of("pt", "BR"));
