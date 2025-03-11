@@ -13,5 +13,7 @@ public class leitura {
         System.out.println(filme);
         System.out.println(anoDeLancamento);
         System.out.println(avaliacao);
+
+        leitura.close();
     }
 }
